@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br clear="both">
+<!-- <br clear="both"> -->
+<!--  -->
+<!-- ### -->
 
-###
 
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -69,12 +69,6 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PetrusZ&"  />
-</div>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -90,6 +84,14 @@ Here are some ideas to get you started:
 ###
 
 <br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PetrusZ&"  />
+</div>
+
+###
+
+<!-- <br clear="both"> -->
 
 <!-- <img src="https://raw.githubusercontent.com/PetrusZ/PetrusZ/output/snake.svg" alt="Snake animation" /> -->
 <!--  -->
