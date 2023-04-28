@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" width="52" alt="redis logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/elasticsearch/elasticsearch-original-wordmark.svg" height="40" width="52" alt="elasticsearch logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/elasticsearch/elasticsearch-original.svg" height="40" width="52" alt="elasticsearch logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="52" alt="vim logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="52" alt="vscode logo"  />
 </div>
